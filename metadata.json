@@ -1,0 +1,6 @@
+{
+  "name": "The Era of Kohli",
+  "description": "A cinematic, immersive digital documentary and interactive museum honoring the legacy, mindset, iconic moments, and records of Virat Kohli (Jersey #18).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
